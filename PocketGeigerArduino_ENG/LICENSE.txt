@@ -1,3 +1,0 @@
-Copyright (c) 2011 Radiation-watch.org.
-Released under the MIT license
-http://opensource.org/licenses/mit-license.php
